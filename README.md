@@ -19,4 +19,4 @@ Contributing to real-world cloud infrastructure and developer tooling projects.
 **Focus Areas:**  
 Cloud Architecture · DevOps · Cloud Security · Infrastructure as Code
 
-[LinkedIn](https://linkedin.com/in/vedant-mishra-8b3987328) · [Email](mailto:vedantmanikmishra@gmail.com) ..
+[LinkedIn](https://linkedin.com/in/vedant-mishra-8b3987328) · [Email](mailto:vedantmanikmishra@gmail.com) .
