@@ -5,25 +5,29 @@
 
   <!-- Dynamic Typing SVG Subtitle -->
   <a href="https://github.com/vedantoncloud">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Cloud+Computing+%26+DevOps+Engineer;AWS+%26+Oracle+Cloud+Infrastructure+(OCI)+Specialist;Building+Automated+CI%2FCD+Pipelines+with+GitHub+Actions;Docker+Containerization+%26+Serverless+Microservices;Creator+of+CloudForge+(Mini+PaaS)+%26+Cost+Prediction+Bot;Seeking+Cloud+%26+DevOps+Engineering+Internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Cloud+Computing+%26+DevOps+Engineer;AWS+%26+Oracle+Cloud+Infrastructure+(OCI)+Specialist;Kumbhathon+Selected+%7C+SIH+Innovator+%26+Volunteer;Automated+CI%2FCD+Pipelines+with+GitHub+Actions;Docker+Containerization+%26+Serverless+Microservices;Creator+of+CloudForge+(Mini+PaaS)+%26+Cost+Prediction+Bot" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Social & Profile Badges -->
-  <a href="https://www.linkedin.com/in/vedant-mishra-8b3987328/">
+  <a href="https://www.linkedin.com/in/vedant-mishra-8b3987328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Vedant_mishra_7" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter Badge"/>
   </a>
   &nbsp;
   <a href="mailto:vedantmanikmishra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
-  <a href="https://vedantoncloud.github.io">
+  <a href="https://vedantoncloud.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
   &nbsp;
-  <a href="https://hub.docker.com/u/vedantoncloud">
+  <a href="https://hub.docker.com/u/vedantoncloud" target="_blank">
     <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub Badge"/>
   </a>
   &nbsp;
@@ -45,6 +49,9 @@ Education: B.Tech in CSE (Cloud Computing) @ MIT ADT University, Pune (2024 - 20
 Experience:
   - Cloud Engineering Intern @ HEPro AI (Serverless, AWS Lambda, API Gateway, DynamoDB)
   - Cloud Computing Trainee @ Oracle Academy & Oracle University (OCI, Multicloud)
+Hackathons:
+  - Kumbhathon: Selected / Finalist
+  - Smart India Hackathon (SIH): Participant (2024, 2025) & Volunteer (2026)
 Current Focus: CloudForge (Mini PaaS), Automated CI/CD, FinOps (Cloud Cost Optimization)
 Open For: Cloud Engineer, DevOps Engineer, SRE & Platform Engineering Internships
 ```
@@ -53,6 +60,20 @@ Open For: Cloud Engineer, DevOps Engineer, SRE & Platform Engineering Internship
 * 🐳 **Containerization & CI/CD**: Building resilient deployment pipelines using **Docker**, **GitHub Actions**, and container registries to deploy production-ready services on platforms like **Render** and **AWS**.
 * ⚡ **Platform & Automation Engineer**: Engineered **CloudForge**, a mini Platform-as-a-Service (PaaS) automating repository cloning, image building, and container runtime orchestration.
 * 💰 **FinOps Enthusiast**: Authored intelligent bots integrating AWS Cost Explorer & CloudWatch to monitor daily burn rates, forecast 7-day cloud expenses, and fire real-time threshold notifications.
+
+---
+
+### 🏆 Hackathons & Leadership
+
+<div align="center">
+
+| Event | Role / Recognition | Highlights & Impact |
+| :--- | :---: | :--- |
+| 🥇 **Kumbhathon** | **Selected / Finalist** | Innovated and engineered a high-impact technology solution selected among competitive nationwide teams. |
+| 🚀 **Smart India Hackathon (SIH 2024 & 2025)** | **Innovator / Participant** | Built scalable solutions addressing critical real-world problem statements under 36-hour sprint deadlines. |
+| 🤝 **Smart India Hackathon (SIH 2026)** | **Volunteer / Organizer** | Facilitated ground operations, technical logistics, and mentorship coordination for hackathon participants. |
+
+</div>
 
 ---
 
@@ -216,19 +237,23 @@ Open For: Cloud Engineer, DevOps Engineer, SRE & Platform Engineering Internship
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/vedant-mishra-8b3987328/">
+  <a href="https://www.linkedin.com/in/vedant-mishra-8b3987328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Vedant_mishra_7" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
   &nbsp;
   <a href="mailto:vedantmanikmishra@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://vedantoncloud.github.io">
+  <a href="https://vedantoncloud.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
-  <a href="https://github.com/vedantoncloud">
+  <a href="https://github.com/vedantoncloud" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
