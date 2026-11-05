@@ -46,7 +46,7 @@
 Name: Vedant Mishra
 Location: Pune, India
 Specialization: Cloud Computing, DevOps & Infrastructure Automation
-Education: B.Tech in CSE (Cloud Computing) @ MIT ADT University, Pune (2024 - 2028 | CGPA: 7.78)
+Education: B.Tech in CSE (Cloud Computing) @ MIT ADT University, Pune (2024 - 2028 | CGPA: 7.92)
 Experience:
   - Cloud Engineering Intern @ HEPro AI (Serverless, AWS Lambda, API Gateway, DynamoDB)
   - Cloud Computing Trainee @ Oracle Academy & Oracle University (OCI, Multicloud)
