@@ -215,10 +215,10 @@ Open For: Cloud Engineer, DevOps Engineer, SRE & Platform Engineering Roles
 <div align="center">
 
   <!-- GitHub Stats Card (Realtime with all commits and private counts included) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantoncloud&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0d1117&rank_icon=github&cache_seconds=1800" height="175" alt="Vedant's GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vedantoncloud&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0d1117&rank_icon=github" height="175" alt="Vedant's GitHub Stats"/>
   &nbsp;
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantoncloud&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117&cache_seconds=1800" height="175" alt="Vedant's Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedantoncloud&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="175" alt="Vedant's Top Languages"/>
 
   <br/><br/>
 
