@@ -1,107 +1,64 @@
-# 🚀 Complete Setup & Deployment Guide for @vedantoncloud
+# 🚀 Complete Setup & Fix Guide for @vedantoncloud
 
-This guide walks you step-by-step through setting up your GitHub profile so that it matches and surpasses elite developer profiles like **ishandutta2007**.
-
----
-
-## 📌 Step 1: Create Your GitHub Special Profile Repository
-
-GitHub provides a special feature: when you create a public repository with the **exact same name as your GitHub username**, the `README.md` in that repository is displayed prominently at the top of your personal GitHub profile page (`https://github.com/vedantoncloud`).
-
-1. Go to **[GitHub New Repository](https://github.com/new)**.
-2. Set **Repository name** to: `vedantoncloud`
-   *(GitHub will show a banner saying: "You found a secret! `vedantoncloud/vedantoncloud` is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile.")*
-3. Make sure it is set to **Public**.
-4. Check **Add a README file** (or leave it unchecked if you are pushing from your machine).
-5. Click **Create repository**.
+All reported issues have been fixed and upgraded to production standard!
 
 ---
 
-## 📌 Step 2: Push the Files Using Git (or via GitHub Web)
+## 🛠️ Summary of What Was Fixed
 
-All files have been prepared and generated in your local workspace at:
-`C:\Users\vedan\.gemini\antigravity\scratch\vedantoncloud`
+1. **✉️ Gmail Badge**:
+   - Replaced broken `mailto:` link with a direct web compose URL:
+     `https://mail.google.com/mail/?view=cm&fs=1&to=vedantmanikmishra@gmail.com&su=Hello%20Vedant`
+   - Now when anyone clicks the Gmail badge, it immediately opens a new tab with Gmail ready to compose—just like clicking LinkedIn opens LinkedIn!
 
-### Option A: Using Git CLI (Recommended)
-Open PowerShell or your terminal in `C:\Users\vedan\.gemini\antigravity\scratch\vedantoncloud` and run:
+2. **🛠️ Skill Icons Redirection**:
+   - Anchored the skill icons cleanly to `#technical-arsenal` in-page.
+   - Now clicking on skill icons will **not** redirect to raw image URLs or external third-party sites.
+
+3. **📊 GitHub Realtime Activity & Metrics**:
+   - Replaced the dead Heroku domain with the official high-uptime domain `https://streak-stats.demolab.com`.
+   - Added `include_all_commits=true`, `count_private=true`, and `cache_seconds=1800` so that all contributions, commits, and streaks refresh accurately in realtime.
+
+4. **📈 Activity Graph**:
+   - Fixed the issue where `Activity Graph` alt-text was displaying due to Vercel rate-limit errors.
+   - Updated `.github/workflows/snake.yml` to automatically generate `dist/activity-graph.svg` directly inside GitHub Actions alongside your contribution snake.
+   - Linked to `https://raw.githubusercontent.com/vedantoncloud/vedantoncloud/output/activity-graph.svg`.
+
+5. **📜 Certificates Verification**:
+   - Linked all certificates directly to your LinkedIn verified certifications page:
+     `https://www.linkedin.com/in/vedant-mishra-8b3987328/details/certifications/`
+   - Added a direct verification badge button.
+
+---
+
+## 📌 How to Push These Changes to GitHub
+
+### Option A: Using Git CLI in Terminal
+Open your terminal in `C:\Users\vedan\.gemini\antigravity\scratch\vedantoncloud` and run:
 
 ```bash
-git init
-git branch -M main
 git add .
-git commit -m "feat: launch elite cloud and devops profile readme"
-git remote add origin https://github.com/vedantoncloud/vedantoncloud.git
-git push -u origin main
+git commit -m "fix: resolve badges, realtime streak metrics, activity graph workflow, and cert links"
+git push origin main
 ```
 
-*(If you already created the repo with a default README on GitHub, you can use `git push -u origin main --force` or pull first).*
+---
 
 ### Option B: Using GitHub Web Interface
-1. Open the repository on GitHub: `https://github.com/vedantoncloud/vedantoncloud`.
-2. Edit `README.md` and copy-paste the entire contents of `C:\Users\vedan\.gemini\antigravity\scratch\vedantoncloud\README.md`.
-3. Create the file `.github/workflows/snake.yml` and paste the contents of `snake.yml`.
+If you prefer doing it from your browser:
+1. Open [https://github.com/vedantoncloud/vedantoncloud](https://github.com/vedantoncloud/vedantoncloud).
+2. Edit `README.md` and paste the updated content from `README.md`.
+3. Edit `.github/workflows/snake.yml` and paste the updated content from `.github/workflows/snake.yml`.
 4. Commit the changes.
 
 ---
 
-## 📌 Step 3: Enable Permissions for the Snake Animation
+## ⚡ Activating the Workflow (One-Time Setup)
 
-The contribution snake runs on a scheduled GitHub Action and pushes the animation SVG to an `output` branch.
-
-1. In your `vedantoncloud/vedantoncloud` repository, click **Settings** (top tabs).
-2. On the left sidebar, click **Actions** ➔ **General**.
-3. Scroll down to **Workflow permissions**.
-4. Select **Read and write permissions**.
-5. Check **Allow GitHub Actions to create and approve pull requests**.
-6. Click **Save**.
-7. Now click the **Actions** tab at the top of your repository.
-8. Click **Generate Snake Animation** on the left menu.
-9. Click **Run workflow** ➔ **Run workflow**.
-   *(It will run in ~30 seconds, generate `dist/github-contribution-grid-snake.svg`, and push it to the `output` branch).*
-
----
-
-## 📌 Step 4: Optimize Your GitHub Profile Sidebar & Settings
-
-To ensure your profile looks 100% polished to recruiters and tech leads:
-
-1. Go to **[GitHub Profile Settings](https://github.com/settings/profile)**.
-2. **Name**: `Vedant Mishra`
-3. **Bio**:
-   ```
-   Cloud & DevOps Engineer ☁️ | AWS & OCI Certified | Building CloudForge & CI/CD Pipelines 🚀
-   ```
-4. **Company / Affiliation**: `MIT ADT University | Ex-HEPro AI`
-5. **Location**: `Pune, India`
-6. **Website URL**: `https://vedantoncloud.github.io`
-7. **Social Accounts**:
-   - LinkedIn: `https://www.linkedin.com/in/vedant-mishra-8b3987328/`
-   - Docker Hub: `https://hub.docker.com/u/vedantoncloud`
-   - Email: `vedantmanikmishra@gmail.com`
-
----
-
-## 📌 Step 5: Pin Your Top 6 Repositories
-
-On your main profile page (`https://github.com/vedantoncloud`), click **Customize your pins** and select:
-
-1. **`Cloudforge`** (Mini Platform as a Service)
-2. **`myapp`** (End-to-End DevOps CI/CD Pipeline)
-3. **`CC-Prediction-Bot`** (AWS Cloud Cost Prediction Bot)
-4. **`CloudOps-AI`** (Cloud Operations & AI Integration)
-5. **`vedantoncloud.github.io`** (Personal Portfolio)
-6. **`cycra-health-trajectory`** (Web Application & Telemetry)
-
----
-
-## 🌟 What Makes This Profile Stand Out (vs. ishandutta2007)
-
-| Feature | Ishan Dutta's Profile | Your Custom Profile (`vedantoncloud`) |
-| :--- | :--- | :--- |
-| **Theme & Aesthetic** | Dark minimal / AI focus | Cloud & DevOps Dark Cyan / Electric Blue Gradient |
-| **Interactive Header** | Static / Standard text | Animated Dynamic Capsule Header + Live Typing SVG |
-| **Domain Categorization**| General programming | Tailored Cloud & DevOps Arsenal (AWS, OCI, Docker, CI/CD, FinOps) |
-| **Project Showcase** | Basic links | Structured 2x2 Feature Matrix with Tech Badges & Impact |
-| **Dynamic Analytics** | Stats Cards | Full GitHub Stats + Top Languages + Streak Stats + Activity Graph |
-| **Gamified Elements** | Contribution Graph | Automated Snake Eating Contributions (`platane/snk`) |
-| **Certifications** | Text list | Clean Credential Verification Table (AWS & Oracle Certified) |
+Once pushed:
+1. Go to your repo: **Settings ➔ Actions ➔ General ➔ Workflow permissions**.
+2. Make sure **Read and write permissions** is selected.
+3. Check **Allow GitHub Actions to create and approve pull requests** and click **Save**.
+4. Go to the **Actions** tab on your repository.
+5. Select **Generate Profile Assets** from the left sidebar and click **Run workflow**.
+6. In ~30-40 seconds, both your **Contribution Snake** and your **Activity Graph** will be generated and published live to your profile!
