@@ -222,8 +222,8 @@ Open For: Cloud Engineer, DevOps Engineer, SRE & Platform Engineering Roles
 
   <br/><br/>
 
-  <!-- GitHub Streak Card (Updated to official stable demolab endpoint) -->
-  <img src="https://streak-stats.demolab.com/?user=vedantoncloud&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&date_format=M%20j%5B%2C%20Y%5D" height="175" alt="Vedant's Streak Stats"/>
+  <!-- GitHub Streak Card (Updated with Indian Timezone & High-Accuracy Calc) -->
+  <img src="https://streak-stats.demolab.com/?user=vedantoncloud&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Kolkata" height="175" alt="Vedant's Streak Stats"/>
 
   <br/><br/>
 
