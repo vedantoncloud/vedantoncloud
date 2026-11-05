@@ -166,22 +166,22 @@ Open For: Cloud Engineer, DevOps Engineer, SRE & Platform Engineering Roles
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 CloudOps-AI</h3>
+      <h3 align="center">🧠 CloudOps-AI — Flagship Autonomous Platform</h3>
       <p align="center">
         <a href="https://github.com/vedantoncloud/CloudOps-AI" target="_blank">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
-        Cloud operations hub exploring AI-driven monitoring and infrastructure management.
+        Intelligent <b>autonomous cloud operations platform</b> moving beyond passive monitoring toward AI-driven incident diagnosis, controlled remediation, and auditability.
       </p>
       <ul>
-        <li>Automated telemetry capture and cloud resource health diagnostics.</li>
-        <li>Integration with cloud events for proactive log analysis and anomaly alerts.</li>
-        <li>Designed for high reliability across distributed cloud environments.</li>
+        <li><b>AI Incident Analysis:</b> Synthesizes telemetry to diagnose anomalies and formulate automated remediation plans.</li>
+        <li><b>Safety & Rollbacks:</b> Enforces dry-run verification, state snapshots, and automatic rollback safeguards.</li>
+        <li><b>Auditability:</b> Tamper-evident hash-chained audit trails with STS AssumeRole least-privilege access.</li>
       </ul>
       <p>
-        <code>AWS Lambda</code> • <code>Python</code> • <code>Cloud Monitoring</code> • <code>Serverless</code>
+        <code>Python</code> • <code>FastAPI</code> • <code>AWS</code> • <code>Docker</code> • <code>MySQL/SQLite</code> • <code>CI/CD</code>
       </p>
     </td>
   </tr>
