@@ -2,8 +2,8 @@ name: Generate Profile Assets
 
 on:
   schedule:
-    # Run every 12 hours
-    - cron: "0 */12 * * *"
+    # Run every 6 hours automatically to keep activity graph & snake super fresh
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
